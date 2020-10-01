@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vms-maritime/static/css/main.0547cee9.chunk.css",
+    "main.js": "/vms-maritime/static/js/main.ac8c6b33.chunk.js",
+    "main.js.map": "/vms-maritime/static/js/main.ac8c6b33.chunk.js.map",
+    "runtime-main.js": "/vms-maritime/static/js/runtime-main.6b5e5270.js",
+    "runtime-main.js.map": "/vms-maritime/static/js/runtime-main.6b5e5270.js.map",
+    "static/js/2.805ab63c.chunk.js": "/vms-maritime/static/js/2.805ab63c.chunk.js",
+    "static/js/2.805ab63c.chunk.js.map": "/vms-maritime/static/js/2.805ab63c.chunk.js.map",
+    "index.html": "/vms-maritime/index.html",
+    "precache-manifest.0c0ef2cd4d0c863e48c6f97fa7bfc0bd.js": "/vms-maritime/precache-manifest.0c0ef2cd4d0c863e48c6f97fa7bfc0bd.js",
+    "service-worker.js": "/vms-maritime/service-worker.js",
+    "static/css/main.0547cee9.chunk.css.map": "/vms-maritime/static/css/main.0547cee9.chunk.css.map",
+    "static/js/2.805ab63c.chunk.js.LICENSE.txt": "/vms-maritime/static/js/2.805ab63c.chunk.js.LICENSE.txt",
+    "static/js/main.ac8c6b33.chunk.js.LICENSE.txt": "/vms-maritime/static/js/main.ac8c6b33.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/vms-maritime/static/media/anime3.bd6820f1.png",
+    "static/media/nucleo-icons.css": "/vms-maritime/static/media/nucleo.f0b489a5.woff",
+    "static/media/react-logo.png": "/vms-maritime/static/media/react-logo.eb6be414.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5e5270.js",
+    "static/js/2.805ab63c.chunk.js",
+    "static/css/main.0547cee9.chunk.css",
+    "static/js/main.ac8c6b33.chunk.js"
+  ]
+}
